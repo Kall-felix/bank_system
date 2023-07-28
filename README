@@ -1,0 +1,3 @@
+This versioning was done for a DIO bootcamp evaluation.
+
+It consists of a banking system that must have the deposit, limit of 3 daily withdrawals, being in the amount of 500 each and the statement where you can consult the deposits and withdrawals made.
